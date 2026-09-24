@@ -60,7 +60,7 @@ olist-data-analysis/
 │   └── load_data.py          # 清洗 + 导入 MySQL
 ├── sql/
 │   ├── schema.sql            # 建库建表
-│   └── analysis_queries.sql  # 6 个业务分析查询(含踩坑注释)
+│   └── analysis_queries.sql  # 6 个业务分析查询(含易错点说明)
 ├── analysis/
 │   ├── run_analysis.py       # 跑全部分析并导出图表
 │   └── charts/               # 7 张 PNG 图表(已提交,README 直接引用)
