@@ -1,0 +1,18 @@
+# 数据库密码等敏感配置(务必不要提交)
+# 精确匹配 .env,不要写成 .env*,否则会连 .env.example 一起忽略
+.env
+
+# 原始数据(体积大,不提交)
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI 二进制文件
+powerbi/*.pbix
+
+# 系统
+.DS_Store
