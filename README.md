@@ -1,4 +1,4 @@
-# 巴西电商 Olist 数据分析(Python + MySQL + SQL)
+# 巴西电商 Olist 数据分析(Python + MySQL)
 
 用近 **10 万笔真实订单**回答 6 个业务问题:从 Python 清洗导入 MySQL,用 SQL 做多表关联与窗口函数分析,再用 Python 出图,最后给出**可落地的业务建议**。
 
