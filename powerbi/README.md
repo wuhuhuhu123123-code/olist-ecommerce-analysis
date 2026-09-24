@@ -1,11 +1,5 @@
 # Power BI 看板搭建指南
 
-> **说明**:本仓库里提交的 7 张图表是由 `analysis/run_analysis.py` 用 matplotlib 生成的,目的是**任何人 clone 后都能一条命令复现全部结论**,无需安装 Power BI。
-> 本文档是**可选补充**:如果你想用 Power BI 重新搭一版同样的看板,按下面的步骤做即可。
->
-> `.pbix` 是二进制文件,不适合放进 git 仓库,因此**本仓库不包含 .pbix 文件**。
-> 若你需要提交看板成品,建议导出 PNG 截图放 `powerbi/screenshots/`,或把 `.pbix` 作为 Release 附件。
-
 ---
 
 ## 1. 连接 MySQL
